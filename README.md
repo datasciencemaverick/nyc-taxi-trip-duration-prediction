@@ -1,1 +1,1 @@
-# Prediction of NYC taxi trip duration using machine learning.
+# Prediction of NYC Taxi Trip Durations Using Machine Learning
