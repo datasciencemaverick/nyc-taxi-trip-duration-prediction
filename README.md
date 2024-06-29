@@ -9,7 +9,7 @@ Build a machine learning model that predicts New York City taxi trip durations b
 
 The dataset is taken from Kaggle's Playground Prediction Competition ["New York City Taxi Trip Duration"](https://www.kaggle.com/c/nyc-taxi-trip-duration/overview).
 
-The competition dataset is based on the [2016 NYC Yellow Cab trip record data](https://cloud.google.com/bigquery/public-data) made available in Big Query on Google Cloud Platform. The data was originally published by the [NYC Taxi and Limousine Commission (TLC)](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page). The data was sampled and cleaned for the purposes of this playground competition. Based on individual trip attributes, participants should predict the duration of each trip in the test set.
+The competition dataset is based on the [2016 NYC Yellow Cab trip record data](https://cloud.google.com/bigquery/public-data) made available in Big Query on Google Cloud Platform. The data was originally published by the [NYC Taxi and Limousine Commission (TLC)](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page). The data was sampled and cleaned for the purposes of this playground competition.
 
 **Data fields**
 - id - a unique identifier for each trip
